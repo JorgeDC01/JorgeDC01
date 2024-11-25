@@ -3,6 +3,32 @@
   <img src="https://www.upm.es/sfs/Rectorado/Gabinete%20del%20Rector/Logos/UPM/Escudo/EscUpm.jpg" alt="Universidad Politécnica de Madrid" width="70px"/>
 </div>
 
+<div style="position: absolute; top: 10px; right: 10px;">
+  <img src="https://pbs.twimg.com/profile_images/1808034996000530432/wLVQ4X2u_400x400.jpg" 
+       alt="Universidad de Extremadura" width="70px" 
+       style="margin-right: 30px;"/>
+  <img src="https://www.upm.es/sfs/Rectorado/Gabinete%20del%20Rector/Logos/UPM/Escudo/EscUpm.jpg" 
+       alt="Universidad Politécnica de Madrid" width="70px"/>
+</div>
+
+<style>
+  /* Estilo para el modo oscuro */
+  @media (prefers-color-scheme: dark) {
+    /* Aplica un filtro o cualquier estilo que contraste mejor con el fondo oscuro */
+    img {
+      filter: brightness(0) invert(1); /* Hace las imágenes más claras e invertidas para el modo oscuro */
+    }
+  }
+
+  /* Estilo para el modo claro (por defecto) */
+  @media (prefers-color-scheme: light) {
+    /* Puedes dejar las imágenes sin ningún cambio en modo claro, o ajustarlas si es necesario */
+    img {
+      filter: none;
+    }
+  }
+</style>
+
 - 🔭 Especializado en **Data Science** y **Deep learning**
 - 📫 Contacto: [Linkedin](https://www.linkedin.com/in/jorge-del-castillo-gómez-243b67285/)
 
