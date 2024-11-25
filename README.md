@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1800&pause=1000&color=6962B6&vCenter=true&width=431&height=30&lines=AI%3A+Machine+Learning%F0%9F%92%BB;AI%3A+Deep+Learning%F0%9F%92%A5;Data+Science%F0%9F%93%8A)](https://git.io/typing-svg)
+
 - 🔭 Especializado en **Data Science** y **Deep learning**
 - 📫 Contacto: [Linkedin](https://www.linkedin.com/in/jorge-del-castillo-gómez-243b67285/)
 
