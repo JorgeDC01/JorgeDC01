@@ -3,7 +3,7 @@
   <img src="https://www.upm.es/sfs/Rectorado/Gabinete%20del%20Rector/Logos/UPM/Escudo/EscUpm.jpg" alt="Universidad Politécnica de Madrid" width="70px"/>
 </div>
 
-- 🔭 Especializado en **Data Science** and **Deep learning**
+- 🔭 Especializado en **Data Science** y **Deep learning**
 - 📫 Contacto: [Linkedin](https://www.linkedin.com/in/jorge-del-castillo-gómez-243b67285/)
 
 
