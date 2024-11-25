@@ -1,4 +1,4 @@
-<div align="center">
+<div style="position: absolute; top: 10px; right: 10px;">
   <img src="https://pbs.twimg.com/profile_images/1808034996000530432/wLVQ4X2u_400x400.jpg" alt="Universidad de Extremadura" width="70px" style="margin-right: 30px;"/>
   <img src="https://www.upm.es/sfs/Rectorado/Gabinete%20del%20Rector/Logos/UPM/Escudo/EscUpm.jpg" alt="Universidad Politécnica de Madrid" width="70px"/>
 </div>
@@ -7,11 +7,11 @@
 - 📫 Contacto: [Linkedin](https://www.linkedin.com/in/jorge-del-castillo-gómez-243b67285/)
 
 
-# 🧰 Tecnologías y Habilidades
+## 🧰 Tecnologías y Habilidades
 
 He aprendido y trabajado con diversas tecnologías y herramientas en mi carrera y máster, organizadas según mi nivel de manejo:
 
-## 🟢 Nivel Avanzado
+### 🟢 Nivel Avanzado
 <table>
   <tr>
     <td><b>Lenguajes</b></td>
@@ -39,7 +39,7 @@ He aprendido y trabajado con diversas tecnologías y herramientas en mi carrera 
 
 ---
 
-## 🟡 Nivel Intermedio
+### 🟡 Nivel Intermedio
 <table>
   <tr>
     <td><b>Lenguajes</b></td>
@@ -71,14 +71,9 @@ He aprendido y trabajado con diversas tecnologías y herramientas en mi carrera 
 
 <div>
   <!-- Primera fila: GitHub Streak y Profile Details -->
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=jorgeDC01" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jorgeDC01" />
-  </div>
-
-  <!-- Segunda fila: Repos per language y Top langs -->
-  <div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorgeDC01" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeDC01&layout=compact&langs_count=8&" />
-  </div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jorgeDC01" style="height: 190px; width: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeDC01&layout=compact&langs_count=8&" style="height: 190px; width: auto;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jorgeDC01" style="height: 190px; width: auto;"/>
+</div>
 </div>
