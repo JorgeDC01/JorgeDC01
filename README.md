@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://pbs.twimg.com/profile_images/1808034996000530432/wLVQ4X2u_400x400.jpg" alt="Universidad de Extremadura" width="200px" style="margin-right: 30px;"/>
+  <img src="https://pbs.twimg.com/profile_images/1808034996000530432/wLVQ4X2u_400x400.jpg" alt="Universidad de Extremadura" width="70px" style="margin-right: 30px;"/>
   
-  <img src="https://www.upm.es/sfs/Rectorado/Gabinete%20del%20Rector/Logos/UPM/Escudo/EscUpm.jpg" alt="Universidad Politécnica de Madrid" width="200px"/>
+  <img src="https://www.upm.es/sfs/Rectorado/Gabinete%20del%20Rector/Logos/UPM/Escudo/EscUpm.jpg" alt="Universidad Politécnica de Madrid" width="70px"/>
 </div>
 
 # 🧰 Tecnologías y Habilidades
