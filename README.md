@@ -6,8 +6,6 @@
 
 ## 🧰 Tecnologías y Habilidades
 
-He aprendido y trabajado con diversas tecnologías y herramientas en mi carrera y máster, organizadas según mi nivel de manejo:
-
 ### 🟢 Nivel Avanzado
 <table>
   <tr>
