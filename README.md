@@ -1,8 +1,11 @@
 <div align="center">
   <img src="https://pbs.twimg.com/profile_images/1808034996000530432/wLVQ4X2u_400x400.jpg" alt="Universidad de Extremadura" width="70px" style="margin-right: 30px;"/>
-  
   <img src="https://www.upm.es/sfs/Rectorado/Gabinete%20del%20Rector/Logos/UPM/Escudo/EscUpm.jpg" alt="Universidad Politécnica de Madrid" width="70px"/>
 </div>
+
+- 🔭 Especializado en **Data Science** and **Deep learning**
+- 📫 Contacto: [Linkedin](https://www.linkedin.com/in/jorge-del-castillo-gómez-243b67285/)
+
 
 # 🧰 Tecnologías y Habilidades
 
@@ -65,14 +68,6 @@ He aprendido y trabajado con diversas tecnologías y herramientas en mi carrera 
     <td>HTML, CSS, AngularJS</td>
   </tr>
 </table>
-
-## Hi there 👋
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on **Data Science** and **Deep learning**
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: Linkedin
 
 <div>
   <!-- Primera fila: GitHub Streak y Profile Details -->
