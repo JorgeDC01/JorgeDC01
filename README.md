@@ -55,10 +55,6 @@
     </td>
   </tr>
   <tr>
-    <td><b>Áreas de Especialización</b></td>
-    <td>Prompting, Visualización de Datos</td>
-  </tr>
-  <tr>
     <td><b>Otros</b></td>
     <td>HTML, CSS, AngularJS</td>
   </tr>
